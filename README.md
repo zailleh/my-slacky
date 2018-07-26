@@ -1,6 +1,6 @@
 # Slacky
 ### Very basic slack chat app. Didn't realise the name was already used by an app when I thought of it!
-
+![Slacky](https://i.imgur.com/NPd5dVj.png)
 ## Technology
 Built using common libraries:
 * jQuery
