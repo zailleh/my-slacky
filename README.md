@@ -6,6 +6,9 @@ Built using common libraries:
 * jQuery
 * Underscore
 
+### Authentication
+Presently, for testing purposes, the authentication has a hard-coded key. The key included in this repository is not valid and for example only. This app should implement oAuth2 authentication when the user loads it so that it is added to the group of their choice and the key stored locally only.
+
 ### Slack API Methods Used:
 | Method | Permissions Required |
 | ------ | -------------------- |
@@ -21,3 +24,4 @@ Built using common libraries:
 * Nest Threads
 * Get Attachments
 * More!
+* Rename and rebrand
